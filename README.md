@@ -1,1 +1,1 @@
-# Data-Science-Projects
+# Credit-card-segmentation
